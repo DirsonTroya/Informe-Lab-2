@@ -11,80 +11,53 @@ Comprender las leyes de KIRCHHOFF para su posterior aplicación en la resolució
 
 OBJETIVOS ESPECÍFICOS
 
-Sintetizar los conceptos de: La ley de Ohm, Corriente Eléctrica, Magnutides Fundamentales; para un mejor entendimiento de la electricidad. Aprender a utilizar ciertas herramientas de trabajo como: Multímetro, Resistencias, Protoboard. 1.2 REQUISITOS PREVIOS
+Plantear resoluciones de ejercicios mediante metodos de leyes de corrientes de kirchoff, así como el de la ley de Ohm para llegar a resultados satisfactorios correspondientes a los modelos planteados 
 
-Se requiere el análisis analítico del circuito mostrado en la figura 1.1. Anote los resultados obtenidos en las tablas 1.1, 1.2 y 1.3.
+1.2 REQUISITOS PREVIOS
+
+Se requiere el análisis analítico del circuito mostrado en la figura 2.1., mediante la técnica del análisis de mallas. El valor obtenido de cada corriente de malla anótelo en la tabla 2.1.
 
 1.3 INFORMACIÓN GENERAL
 
-Uno de los métodos ampliamente utilizados en el análisis de circuitos eléctricos son las Leyes de Kirchhoff de voltaje y corriente, ya que con ellas se puede determinar el valor de voltaje o corriente en cualquier elemento que forme parte del circuito. Las Leyes de Kirchhoff se enuncian a continuación:
+1.3.1 El análisis de mallas es una técnica que hace uso de la LVK para expresar voltajes en función de corrientes.
 
-a) Ley de Kirchhoff de Corrientes: La suma de las corrientes que entran a un nodo es igual a la suma de las corrientes que salen del mismo.
-
-b) Ley de Kirchhoff de Voltajes: La suma de las caídas de voltaje en una trayectoria cerrada es igual a la suma de las elevaciones de voltaje en la misma.
+1.3.2 Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún elemento del circuito.
 
 1.4 MATERIAL Y EQUIPO REQUERIDO
 
-201507259-3fd72629-0088-4d6d-b476-360ef62c9bc4
+![202714212-72f03762-334f-45bb-b207-5acfb032b8a8](https://user-images.githubusercontent.com/117947198/203159765-44e227b3-bb71-4c7e-9788-850e2ff4df22.jpg)
 
 1.5 PROCEDIMIENTO
 
-1.5.4.201507293-851a1e49-5e50-4546-ba65-762574a7e55e
+1.5.1 Ley de voltajes de kirchoff mediante el siguiente gráfico
 
-1.5.1 Arme el circuito que se muestra en la figura 1.1 en Thinkercad
+![202714253-7b0e18ff-090d-43c0-a0c9-e87ee5df8030](https://user-images.githubusercontent.com/117947198/203159983-656ec751-bbfa-40ee-8329-268e3625461d.jpg)
 
-WhatsApp Image 2022-11-14 at 20 22 51
+Procedimiento:
 
-Figura 1.1. Circuito Resistivo Mixto
+![202714370-5d8186cb-a38a-4638-b6e3-122a272c319e](https://user-images.githubusercontent.com/117947198/203160247-5442073d-cce7-42a0-a245-a47080a1b26b.jpg)
 
-201821466-d8544efb-ac29-4c57-805f-1f42a7979aaa
+![202714394-4184295c-dd28-4612-b636-557a06df479a](https://user-images.githubusercontent.com/117947198/203160353-6ef1d224-7204-4c1f-b2a2-94f9f8d86479.jpg)
 
-1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+![202714413-f7d42825-4af2-42ee-8c0e-2d562cf336fa](https://user-images.githubusercontent.com/117947198/203160369-40a5d60a-4769-4831-94b8-458529717519.jpg)
 
-201821588-5afb524d-4e2f-4b00-ae3e-8826321486bf
+![202714426-87def29c-ecdc-4783-b41b-055df9ca19f1](https://user-images.githubusercontent.com/117947198/203160385-4d489cd5-000a-4fda-9471-2980c2452c8b.jpg)
 
-201821591-81dd7aff-5e00-476f-b804-2315acb2f314
 
-201821596-c2d2b89f-c0d6-48aa-8feb-c4d74839b098
+1.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1
 
-201821598-79023a87-cbb9-4ccf-ba27-e664e47cf852
+![202714292-43bcd81d-3dee-40ae-81d4-07a30831d65e](https://user-images.githubusercontent.com/117947198/203160502-30ae790c-dff8-4bc6-baad-80c7f0067764.jpg)
 
-201821618-814cdaee-ad3b-434f-a7a0-8bac0abf0502
+Después de realizar los respectivos cálculos se notó que no hay gran diferencia con respecto al valor de las corrientes de las mallas. La mayoría de los resultados son casi iguales.
 
-201821625-c2f1fc8d-03e5-4b82-a5a7-4391da285e3d
+1.5.3. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1
 
-Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+![202715645-a8afd61a-2a37-4694-8773-c559c362142d](https://user-images.githubusercontent.com/117947198/203160647-111d9dd1-c426-44e9-b777-3f050fbef5e0.jpg)
 
-201822330-cb64a5ae-ed95-46a9-b858-a5e9b467ea41
+1.6 CONCLUSIONES
 
-1.5.3. Verifique si se cumple la ley de KIRCCHHOFF de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
+Se pudo comprobar que los valores obtenidos tanto del voltaje y la corriente mediante el uso de las leyes Kirchhoff fueron Satisfactorias. De la misma manera realizar el circuito de forma simulada ayuda a que la comprensión del mismo sea más clara con un resultado similar a la realidad, contando con que puede llegar a tener diversas variaciones en lo que exactitud se refiere.
 
-201822378-e8efd173-6687-4967-85de-478fab340788
+1.7 BIBLIOGRAFÍA
 
-SI CUMPLE PUESTO QUE LA SUMATORIA DE VOLTAJE EN LAS RESISTENCIAS ES IGUAL AL VOLTAJE DE LA FUENTE
-
-Verifique si se cumple la Ley de KIRCHHOFF de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
-
-Tabla 1.3. Verificación de la ley de Corrientes de KIRCHHOFF
-
-201822405-f7291547-070e-4666-b966-891acbd2faec
-
-SI SE CUMPLE PUESTO QUE LA SUMATORIA DE CORRIENTES EN LOS NODOS ES IGUAL A CERO
-
-1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente concluya al respecto.
-
-Al obtener los valores respectivos mediante las fórmulas, obtenemos medidas que se acercan mucho a lo que se obtiene dentro del circuito realizado dentro de tinkercad, no existe una gran diferencia entre cada valor, tanto del voltaje como de corriente, se puede observar en la Tabla 1.1, por lo cual los valores obtenidos son los mismos, eso nos da una certera idea de que cada una de las operaciones realizadas se encuentran correctamente.
-
-1.6 VIDEO
-
-https://drive.google.com/file/d/1EgNVHEsSa6F16NAho5gie-mLc8jTqT7S/view?usp=sharing
-
-1.7 CONCLUSIONES
-
-Se pudo comprobar que los valores obtenidos tanto del voltaje y la corriente mediante el uso de las leyes Kirchhoff fueron muy semejantes a los obtenidos mediante verificar el circuito analiticamente, con unos pequeños margenes de error.
-
-Asi mismo tanto para las tablas obtenidas, se comprobó el uso de la primera y segunda ley de Kirchhoff, los cálculos obtenidos nos asemejan a una silmulación real, todo este proceso de usar las leyes antes mencionadas nos permiten a que los valores sean precisos y casi exactos, apoyandonos del mismo ciruito para usar las fórmulas como la dirección de la corriente, sus trayectorias y el análisis imperial sobre como usarlas correctamente.
-
-1.8 BIBLIOGRAFÍA
-
-Bueche, Frederick J. y Eugene Hecht. Esquema de la teoría y problemas de la física universitaria de Schaum . Nueva York: McGraw-Hill, 2006
+Robert L. Boylestad. 2004. "Introducción al análisis de circuitos". Pearson Educación
