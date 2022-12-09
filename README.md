@@ -11,7 +11,7 @@ Comprender las leyes de KIRCHHOFF para su posterior aplicación en la resolució
 
 OBJETIVOS ESPECÍFICOS
 
-Plantear resoluciones de ejercicios mediante metodos de leyes de corrientes de kirchoff, así como el de la ley de Ohm para llegar a resultados satisfactorios correspondientes a los modelos planteados 
+Plantear resoluciones de ejercicios mediante metodos de leyes de voltajes de kirchoff, así como el de la ley de Ohm para llegar a resultados satisfactorios correspondientes a los modelos planteados 
 
 1.2 REQUISITOS PREVIOS
 
