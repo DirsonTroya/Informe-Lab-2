@@ -1,7 +1,7 @@
 # Informe Laboratorio 2
 
 
- NOMBRES: Dirson Troya,
+Nombres: JEAN MACIAS, DIRSON TROYA, JOAN CALDERÓN
 
 NRC: 10063
 
