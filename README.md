@@ -1,4 +1,4 @@
-# Informe-Lab-2
+# Informe Laboratorio 2
 
 
  NOMBRES: Dirson Troya,
